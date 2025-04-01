@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me: znznzn135246@qq.com
-- 😄 Pronouns: Zn
+- 😄 Pronouns: zn
 - ⚡ Fun fact: enjoy drinking ginger date tea
 
 <!---
